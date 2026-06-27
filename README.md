@@ -18,5 +18,5 @@ I am a Data Science Intern focused on building scalable machine learning workflo
 
 <!-- The GitHub Action will automatically replace the image below with your live 3D stats -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dakshUpmanu/dakshupmanyu/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Dakshupmanyu/Dakshupmanyu/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
