@@ -1,22 +1,27 @@
-# Hi there, I'm Daksh! 👋
+# Hi there, I'm Daksh Upmanu! 👋
 
-I am a Data Science Intern focused on building scalable machine learning workflows and deploying models to production.
+I am a professional Intern focus on Data Science and Machine Learning. Currently, I am applying my skills as a Data Science Intern at RateGain, where I navigate the intersection of deep learning and real-world data challenges.
 
-### 🔭 What I'm Working On
-*   **Data Science:** Working with real-world data, handling complex datasets with `pandas`, and building demand forecasting systems.
-*   **Machine Learning:** Training deep learning networks and comparing ensemble models like Random Forest and XGBoost.
-*   **MLOps & LLMOps:** Implementing automated machine learning operations, tracking data drift, and managing model registries. 
+### 🔭 Current Focus & Interests
+*   **Data Science:** Expert in using Python and `pandas` for industry-specific analysis, including demand forecasting and cleaning messy real-world datasets.
+*   **MLOps & LLMOps:** Passionate about building scalable pipelines, implementing data drift monitoring, automated machine learning operations, and model registries.
+*   **Machine Learning:** Experienced in deep learning architectures and comparing ensemble performance metrics like Random Forest vs. XGBoost.
 
-### 🛠️ Languages & Tools
+### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 📊 My GitHub Metrics
-
-<!-- The GitHub Action will automatically replace the image below with your live 3D stats -->
+### 📊 GitHub Metrics
+<!-- The action below generates your 3D metrics image automatically -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/insights/Dakshupmanyu" />
+  <img src="https://raw.githubusercontent.com/Dakshupmanyu/Dakshupmanyu/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
+
+---
+
+### 📫 Connect with Me
+*   **LinkedIn:** [Link your profile here]
+*   **RateGain Projects:** [Optional: Highlight a specific accomplishment]
