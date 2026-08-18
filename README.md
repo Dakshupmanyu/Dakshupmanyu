@@ -23,5 +23,5 @@ I am a professional Intern focus on Data Science and Machine Learning. Currently
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [Link your profile here]
-*   **RateGain Projects:** [Optional: Highlight a specific accomplishment]
+*   **LinkedIn:** https://www.linkedin.com/in/daksh-upmanyu-b73041279/
+
